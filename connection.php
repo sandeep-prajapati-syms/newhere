@@ -2,9 +2,9 @@
 ALTER TABLE `localuser` ADD `id` INT(10) NOT NULL AUTO_INCREMENT AFTER `adress`, ADD PRIMARY KEY (`id`); -->
 <?php
 $server ="localhost";
-$username = "root";
-$password = "";
-$database = "user";
+$username = "u557391790_MyLaravelBook";
+$password = "MyL@r@velBook2022";
+$database = "u557391790_MyLaravelBook";
 
 
 // creating connection to the database
