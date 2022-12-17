@@ -80,7 +80,7 @@ require "card.php";
 
 </html>
 <?php
-}else{
-    header("Location: starter.html");
-}
+// }else{
+//     header("Location: starter.html");
+// }
 ?>
